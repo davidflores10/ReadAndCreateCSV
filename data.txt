@@ -1,4 +1,5 @@
 David Flores Barbero,example@example.com,Sala Técnica,5492,P1
 Marcos Flores Barbero,example2@example.com,Sala Técnica 2,5493,P2
 Francisco Flores Barbero,example2@example.com,Sala Técnica 2,5493,P-3
+Juan Sánchez Barbero,example2@example.com,Sala Técnica 2,5493,PB
 Juan Flores Barbero,example2@example.com,Sala Técnica 2,5493,PB
